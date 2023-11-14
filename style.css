@@ -55,7 +55,7 @@ section {
 
 .home {
     
-  background-image: url(../img/background.png);
+  background-image: url(img/background.png);
   background-size: cover;
   background-position: 40%;
   width: 100%;
